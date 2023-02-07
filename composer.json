@@ -1,0 +1,14 @@
+{
+    "name": "nuevenet/dynamic-record",
+    "description": "A Twig library for dynamic data management",
+    "type": "library",
+    "require": {
+        "twig/twig": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nuevenet\\DynamicRecord\\": "resources/"
+        }
+    },
+    "license": "MIT"
+}
