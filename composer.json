@@ -2,6 +2,7 @@
     "name": "nuevenet/dynamic-record",
     "description": "A Twig library for dynamic data management",
     "type": "library",
+    "version": "0.0.1",
     "require": {
         "twig/twig": "^1.0"
     },
